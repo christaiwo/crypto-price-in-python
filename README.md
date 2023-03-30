@@ -1,3 +1,3 @@
-## crypto-price-in-python 
+# crypto-price-in-python 
 
-# This is a python script that fetch the crypto price from binance website using beautifulsoup4
+## This is a python script that fetch the crypto price from binance website using beautifulsoup4
