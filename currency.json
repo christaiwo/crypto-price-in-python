@@ -1,0 +1,30 @@
+[
+    {
+        "name": "bitcoin",
+        "coin_code": "BTC"
+    },
+    {
+        "name": "ethereum",
+        "coin_code": "ETH"
+    },
+    {
+        "name": "tether",
+        "coin_code": "USDT"
+    },
+    {
+        "name": "bnb",
+        "coin_code": "BNB"
+    },
+    {
+        "name": "dogecoin",
+        "coin_code": "DOGE"
+    },
+    {
+        "name": "xrp",
+        "coin_code": "XRP"
+    },
+    {
+        "name": "tron",
+        "coin_code": "TRX"
+    }
+]
